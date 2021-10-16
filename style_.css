@@ -1,0 +1,27 @@
+.body-background{
+    background-color: rgb(184, 216, 253);
+    color: rgb(0, 55, 104);
+    font-family: 'comic sans ms';
+}
+
+#buttona{
+    background-color: rgb(184, 216, 253);
+    color:rgb(87, 157, 236);
+    border: 2px solid rgb(159, 200, 248);
+}
+
+#output{
+    background-color: aliceblue;
+    border-radius: 10px;
+    border-top: 10px solid rgb(0, 42, 78);
+    padding: 10px;
+    float: none;
+    text-align: left;
+    width: 200px;
+    color:rgb(70, 134, 190) ;
+}
+
+.e{
+    width: 30px;
+    height: 20px;
+}

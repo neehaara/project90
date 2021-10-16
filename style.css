@@ -1,0 +1,14 @@
+.body-background{
+    background-color: rgb(184, 216, 253);
+    color: rgb(0, 55, 104);
+    font-family: 'comic sans ms';
+}
+
+h1{
+    font-family: 'Lobster';
+}
+
+#buttona{
+    background-color: rgb(184, 216, 253);
+    color:rgb(0, 55, 104);
+}
